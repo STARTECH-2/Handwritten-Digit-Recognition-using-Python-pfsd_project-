@@ -1,0 +1,26 @@
+implementaion steps:
+
+1.create a project in pycharm /vscode any editor
+
+2.prerequest :
+  install the following packages/frameworks
+1.numpy
+2.tensorflow
+3.keras
+4.pillow
+
+3.data set --MNIST
+
+4.import the libraries in the code
+
+5. preprocess the data
+
+6. creation of model
+
+7.training the model
+
+8.evaluating the model
+
+9.creation of gui interface
+
+ 
